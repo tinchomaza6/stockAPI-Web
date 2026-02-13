@@ -6,7 +6,7 @@
     "@material-ui/core": "^4.5.1",
     "@material-ui/icons": "^4.5.1",
     "body-scroll-lock": "^2.6.4",
-    "colorthief": "^2.3.0",
+    "colorthief": "^2.6.0",
     "ibm-watson": "^5.1.0",
     "mdi-react": "^6.2.0",
     "react": "^16.10.1",
@@ -20,7 +20,7 @@
     "react-navigation": "^4.0.10",
     "react-palette": "^1.0.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.1.2",
+    "react-scripts": "5.0.1",
     "react-swipeable-views": "^0.13.3"
   },
   "scripts": {
